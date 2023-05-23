@@ -1,2 +1,8 @@
-# ABO-1DCSP
-It is the code of the algorithm ABO-1DCSP for instances with single stocks
+# ABO-1DCSP 2023
+Minimizing the total waste in the One-Dimensional Cutting Stock Problem with the African Buffalo Optimization Algorithm.
+
+Developed in Python version 3.7.
+
+Programmer: Leonardo Javier Montiel Arrieta
+email: mo450519@uaeh.edu.mx
+
