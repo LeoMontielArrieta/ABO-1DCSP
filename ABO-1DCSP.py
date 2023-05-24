@@ -1,6 +1,9 @@
 """
-Dentro de esta versión se conforma a un nuevo bgmax antes de reiniciar la manada mediante la selección de los
-mejores patrones de corte de la manada actual
+Developed in Python version 3.7
+
+The initial parameters that you need are:
+
+number_buffaloes
 """
 from timeit import timeit
 from random import shuffle, random
